@@ -1,0 +1,9 @@
+ 
+
+  Guid : 
+
+   GUID : Universally Unique Identifier. 
+   Nous utilisons GUID pour l'identifiant unique. Maintenant, une question se pose si nous avons déjà une clé primaire 
+   que pourquoi nous utilisons Globally Unique Identifier (GUID). nous utilisons GUID car il a une très faible probabilité 
+   d'être dupliqué car il s'agit d'un entier de 128 bits (16 octets) qui permet d'utiliser GUID sur toutes les bases de données
+   et ordinateurs sans collision de données. 
