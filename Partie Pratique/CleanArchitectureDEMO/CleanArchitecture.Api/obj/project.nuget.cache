@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "X5xqcz0+pYNzBALDFRX24ft9zFxzz7f5ZChjFyVYbiS2kWCaaueUeYXJIpm2lbNsxxgAu+bZ8NYjIs++bkbgUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\2022\\Fevrier\\Formation\\Formation clean Architecture CQRS et Mediator\\Partie Pratique\\CleanArchitectureDEMO\\CleanArchitecture.Api\\CleanArchitecture.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

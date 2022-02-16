@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6e00aa7-9252-4a66-bfcb-fd02ef30dfe4": {
+      "ProjectGuid": "b6e00aa7-9252-4a66-bfcb-fd02ef30dfe4",
+      "DisplayName": "CleanArchitecture.Domain",
+      "ColorIndex": 0
+    },
+    "38e2ae61-19ed-4589-93fa-f5f5810b8b13": {
+      "ProjectGuid": "38e2ae61-19ed-4589-93fa-f5f5810b8b13",
+      "DisplayName": "CleanArchitectue.Application",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
